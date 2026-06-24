@@ -41,6 +41,19 @@ Features:
 - Dynamic result display
 
 ---
+## 📸 Project Screenshots
+
+### To-Do List App
+
+![To-Do App](screenshots/todo.png)
+
+### Calculator
+
+![Calculator](screenshots/calculator.png)
+
+### Rock Paper Scissors
+
+![Rock Paper Scissors](screenshots/rps.png)
 
 ##  Technologies Used
 
