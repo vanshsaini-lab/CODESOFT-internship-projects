@@ -1,29 +1,62 @@
-CodeSoft Internship Projects
+#  CodeSoft Internship Projects
 
-This repository contains the projects I completed during my CodeSoft Python Internship.
+This repository contains the projects I completed during my **CodeSoft Python Internship**.
 
-Projects
-1. To-Do List Application
-Add, update, delete tasks
-Mark tasks as completed
-File handling using JSON
-Persistent task storage
-2. GUI Calculator
-Built with CustomTkinter
-Basic arithmetic operations
-Modern user interface
-Error handling
-3. Rock Paper Scissors Game
-Interactive GUI
-Random computer opponent
-Score tracking
-Reset and play again functionality
-Technologies Used
-Python
-CustomTkinter
-JSON
-Random Module
-Git & GitHub
-Internship
+##  Projects
 
-Completed as part of the CodeSoft Python Internship Program.
+### 1.  To-Do List Application
+
+Features:
+- Add tasks
+- Update tasks
+- Delete tasks
+- Mark tasks as completed
+- File handling using JSON
+- Persistent task storage
+
+---
+
+### 2.  GUI Calculator
+
+Built with:
+- Python
+- CustomTkinter
+
+Features:
+- Basic arithmetic operations
+- Modern GUI design
+- Error handling
+- Responsive buttons
+
+---
+
+### 3.  Rock Paper Scissors Game
+
+Features:
+- Interactive GUI
+- Random computer opponent
+- Score tracking
+- Play Again functionality
+- Reset Score feature
+- Dynamic result display
+
+---
+
+##  Technologies Used
+
+- Python
+- CustomTkinter
+- JSON
+- Random Module
+- Git
+- GitHub
+
+---
+
+##  Internship
+
+Completed as part of the **CodeSoft Python Internship Program**.
+
+---
+
+ Feel free to explore the projects and provide feedback!
