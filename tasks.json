@@ -1,0 +1,22 @@
+[
+    {
+        "task": "open laptop",
+        "completed": true
+    },
+    {
+        "task": "play youtube",
+        "completed": true
+    },
+    {
+        "task": "change music",
+        "completed": false
+    },
+    {
+        "task": "plugin headphones",
+        "completed": false
+    },
+    {
+        "task": "eat popcorn",
+        "completed": false
+    }
+]
