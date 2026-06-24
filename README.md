@@ -45,7 +45,7 @@ Features:
 
 ### To-Do List App
 
-![To-Do App](screenshots/todo.png)
+![To-Do App](screenshots/to-do.png)
 
 ### Calculator
 
@@ -53,7 +53,7 @@ Features:
 
 ### Rock Paper Scissors
 
-![Rock Paper Scissors](screenshots/rps.png)
+![Rock Paper Scissors](screenshots/rpe.png)
 
 ##  Technologies Used
 
